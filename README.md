@@ -1,6 +1,9 @@
 # Vendor
 
-Vendor copies go dependencies to ./vendor.
+The Vendor tool copies go dependencies to the ./vendor directory. This is the simplest 
+way to ensure all necessary dependencies are located in one place without complicated 
+file management or hidden assumptions. It only puts dependencies into your vendor 
+directory when you ask it to.
 
 ## Install
 
