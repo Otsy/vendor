@@ -73,5 +73,5 @@ Vendor assumes:
 
 * Be fast
 * Get out of the way
-* Do only what is asked
+* Do only what is asked of it
 
